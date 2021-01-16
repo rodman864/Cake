@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9C33F836-0035-4073-BF01-EB9B4F9883D7}|Default">
+  <MonoDevelop.Ide.ItemProperties.CS__133__Projects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cake/Program.cs">
+    <Files>
+      <File FileName="Cake/Program.cs" Line="42" Column="33" />
+      <File FileName="Cake/GenericClasses/Cake.cs" Line="9" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CS_133_Projects" expanded="True">
+            <Node name="CS_133_Projects" expanded="True">
+              <Node name="GenericClasses" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

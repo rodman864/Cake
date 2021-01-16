@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{18CD8D00-756F-4B89-9B59-8B02274B94F2}|Default">
+  <MonoDevelop.Ide.ItemProperties.CakeAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CakeAssignment/Program.cs">
+    <Files>
+      <File FileName="CakeAssignment/Program.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CakeAssignment" expanded="True">
+            <Node name="CakeAssignment" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
